@@ -1,1 +1,2 @@
-# Snakie web v 1.0
+# Snakie web 
+Simple web game that I made without using any frameworks
