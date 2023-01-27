@@ -45,7 +45,7 @@ class Apple{
         while (true) {
             isTouching = false;
             this.x = Math.floor(Math.random() * canvas.width / snake.size) * snake.size 
-Соня прекрати парить маме расскажу
+            
             this.y = Math.floor(Math.random() * canvas.height / snake.size) * snake.size
             
             for (let i = 0; i < snake.tail.length; i++) {
